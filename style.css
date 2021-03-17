@@ -1,0 +1,24 @@
+*{
+  background-color: azure;
+  border: 2px solid azure;
+
+}
+
+
+
+.item{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{ 
+    background-color: azure
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.item{
+  display:flex;
+  justify-content: space-left;
+
+}
