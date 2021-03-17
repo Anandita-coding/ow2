@@ -15,10 +15,27 @@ h1{
 .menu{
     display: flex;
     justify-content: space-evenly;
+    text-decoration: none;
 
 }
 .item{
   display:flex;
   justify-content: space-left;
+
+}
+.item{
+  margin-left :100px;
+  
+
+}
+a:link{
+  color: white;
+}
+a:visited{
+  color: pink;
+}
+.menu{
+  
+  text-decoration: none;
 
 }
